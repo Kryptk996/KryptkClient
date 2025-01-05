@@ -32,8 +32,8 @@ _This project was made for fun and it doesn't aim to harm the original game by a
 
 #### - Donators (encourages me even more!)
 
-- [FNYaz](https://www.youtube.com/@FNyaz))
-- [Zincxfy](https://www.youtube.com/@SNZincxfy))
+- [FNYaz](https://www.youtube.com/@FNyaz)
+- [Zincxfy](https://www.youtube.com/@SNZincxfy)
 
 ##### Thank you to anyone in the future who also tips :D
 

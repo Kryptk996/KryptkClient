@@ -2,79 +2,57 @@
 <br />
 <p align="center">
   <a href="https://github.com/NeoniteDev/NeonitePP">
-    <img src="https://www.neonite.net/images/neonite.png" alt="Logo" width="216" height="127">
   </a>
 
   <p align="center">
-    Fortnite launcher, server and internal mod aimed towards advancing modding within Fortnite.
+    Advanced and up-to-date launcher, helping users to remaster, explore and revisit builds, especially from Chapter 4 and above.
 	<br />
-	<a href="https://www.neonite.net/">ᗒ Official Website ᗕ</a>
+	<a href="https://www.neonite.net/">ᗒ Official Source Website ᗕ</a>
   </p>
 
   <p align="center">
-  <img src="https://img.shields.io/github/languages/top/NeoniteDev/NeonitePP"></img>
-  <img src="https://img.shields.io/github/stars/NeoniteDev/NeonitePP"></img>
-  <img src="https://img.shields.io/badge/supported%20fortnite%20clients-ch2%5E-purple"></img>
+  <img src="https://i.postimg.cc/wBKFzkjB/Kryptk-Loader.png"></img>
   </p>
 </p>
 
-<!-- ABOUT NEONITE++ -->
-## - About Neonite++
+<!-- ABOUT Krpytk -->
+## - About Kryptk
 
-Neonite++ is a rewrite of our popular project, [NeoniteV2](https://github.com/NeoniteDev/neonitev2), fully in C++. This project was aimed to serve new and unique experiences for the game we all loved, making local usage far easier and messing with everything much easier, adding some magic touches to your game client, such as in-game single player experience. 
+Kryptk is a rewrite of Neonite, [NeoniteV2](https://github.com/NeoniteDev/NeonitePP). This project was aimed to serve new and unique experiences for the game we all loved, making local usage far easier and messing with everything much easier, adding some magic touches to your game client, such as in-game single player experience.
 
 <br>
 
-#### • This project is discontinued.
+#### • This project is currently in beta and feedback is highly appreciated. Not looking for contributors. This is a personal experimental page to put forward for my future portfolio.
 
-_This project was made for fun and it doesn't aim to harm the original game by any means and it's not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with EpicGames. If you are an Epic Games employee and you have any problems with this project, please do not hesitate to [contact us](#contact) through your official business email: NeoniteDev@protonmail.com_
+_This project was made for fun and it doesn't aim to harm the original game by any means and it's not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with EpicGames. If you are an Epic Games employee and you have any problems with this project, please do not hesitate to create an issue in this repo for this to be taken down or made private.
 
 <!-- BUILDING -->
 ## - Building
-• We do **NOT** provide any building or fixing support and it does **NOT** work on latest, However going back 6~7 commits should be enough to have a version that works on old Chapter 2 clients (s12 ~ s15).
+• We do **NOT** provide any building or fixing support and it SHOULD work on the latest, However going in the future where UE6 may start to be used, it **may** take a longer amount of time to rewrite some functions to amend the backend and hosting capabilities for the upgraded engine.
 
+#### - Donators (encourages me even more!)
 
-<!-- FEATURES -->
-## - Features
-• Neonite++ features are showcased in this twitter [thread](https://twitter.com/Neonitedev/status/1368926282189316096), also video tutorials can be found [here](https://neonitedev.github.io/tutorials.html).
+- [FNYaz](https://www.youtube.com/@FNyaz))
+- [Zincxfy](https://www.youtube.com/@SNZincxfy))
 
-<!-- DONATING -->
-## - Donate
-
-• This project required countless hours of effort from many people, this project is an unpaid work, you do not have to donate, but if you want to have your name in this readme file, DM me on my discord `kemo#1337` or my twitter `@xkem0x`.
-
-#### - Donators
-
-- [Spook](https://www.youtube.com/channel/UCZ-uXTZGSN8lmp-nrXwz7-A)
-- [TheGameVlog](https://www.youtube.com/channel/UCdOA0e5GsrOEDszKBnMmuUg)
-- [ShuffleGamer](https://www.youtube.com/channel/UCI2hA8WukW-Q90aabtm3Hbw) 
-
-##### Thank you to anyone who donates and supports the development of this project, we appreciate you <3 <3!
+##### Thank you to anyone in the future who also tips :D
 
 <!-- CONTACT -->
 ##  - Contact
 
-- Email: <a href="mailto:contact@neonite.dev">contact@neonite.dev</a>
-
-- Discord Server: [Neonite](https://dsc.gg/neonite)
-
-- Discord Messages: `kemo#1337`, `Ayal#0001 `
+- Discord Messages: `kryptk996` **May be subject to change**
 
 
 <!-- CREDITS -->
 ## - Credits
 
-This project was made by the modding community **for** the modding community, you can include everyone who was involved in fortnite modding by a way or another in here, Everything is used with fully-granted permissions. a huge shoutout to [Project Polaris](https://github.com/PolarisV2/Polaris) and RiftFN and every-single Neoquarters member, for keeping me motivated through this long journey.
+Everyone aspiring to create a better place for creativity and reimagining the past.
 
 
 <!-- Licensing -->
 ## - Licensing
-- [Minhook](https://github.com/TsudaKageyu/minhook) is under [MinHook License](https://github.com/TsudaKageyu/minhook/blob/master/LICENSE.txt).
 
-- [Cpp-HttpLib](https://github.com/yhirose/cpp-httplib), [Discord-RPC](https://github.com/discord/discord-rpc/), [JSON](https://github.com/nlohmann/json), and [IMGUI](https://github.com/ocornut/imgui) are under [MIT License](https://opensource.org/licenses/MIT).
-
-- [OpenSSL](https://github.com/openssl/openssl/) is under [Apache License 2.0](https://www.apache.org/licenses/).
-
+Damn it, just don't resell my project. All licenses to Neonite and their listing of usability.
 - [Cryptolens](https://github.com/Cryptolens/cryptolens-cpp) is under [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause).
 
 - All required Boost libs are under [Boost License](https://www.boost.org/users/license.html).

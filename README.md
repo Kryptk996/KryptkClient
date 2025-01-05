@@ -26,6 +26,17 @@ Kryptk is a rewrite of Neonite, [Neonite++](https://github.com/NeoniteDev/Neonit
 
 _This project was made for fun and it doesn't aim to harm the original game by any means and it's not Affiliated, Associated, Authorized, Endorsed by, or in any way officially connected with EpicGames. If you are an Epic Games employee and you have any problems with this project, please do not hesitate to create an issue in this repo for this to be taken down or made private.
 
+<!-- Download info -->
+## - Download
+
+Releases, not some `git clone ` thing or ZIP folder download.
+
+- It should just be a folder. It must not be zipped. It is not very heavy in size anyway.
+
+- It may trigger possible false AV detections because it is newly released and has not been offered a digital signature, being a small scope project.
+
+• Requirements: `Latest Node.js`, `Django Web Development Pack`. **Up-to-date editions at any point in time**.
+
 <!-- BUILDING -->
 ## - Building
 • We do **NOT** provide any building or fixing support and it SHOULD work on the latest, However going in the future where UE6 may start to be used, it **may** take a longer amount of time to rewrite some functions to amend the backend and hosting capabilities for the upgraded engine.

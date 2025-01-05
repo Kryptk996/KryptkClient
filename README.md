@@ -29,7 +29,7 @@ _This project was made for fun and it doesn't aim to harm the original game by a
 <!-- Download info -->
 ## - Download
 
-Releases, not some `git clone ` thing or ZIP folder download.
+[Releases](https://github.com/Kryptk996/KryptkClient/releases), not some `git clone ` thing or ZIP folder download.
 
 - It should just be a folder. It must not be zipped. It is not very heavy in size anyway.
 

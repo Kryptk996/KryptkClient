@@ -20,6 +20,8 @@
 
 Kryptk is a rewrite of Neonite, [Neonite++](https://github.com/NeoniteDev/NeonitePP). This project was aimed to serve new and unique experiences for the game we all loved, making local usage far easier and messing with everything much easier, adding some magic touches to your game client, such as in-game single player experience.
 
+[Demo video](https://github.com/Kryptk996/KryptkClient/blob/main/17_21-01-03-2025.mp4)
+
 <br>
 
 #### • This project is currently in beta and feedback is highly appreciated. Not looking for contributors. This is a personal experimental page to put forward for my future portfolio.

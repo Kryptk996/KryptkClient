@@ -18,7 +18,7 @@
 <!-- ABOUT Krpytk -->
 ## - About Kryptk
 
-Kryptk is a rewrite of Neonite, [NeoniteV2](https://github.com/NeoniteDev/NeonitePP). This project was aimed to serve new and unique experiences for the game we all loved, making local usage far easier and messing with everything much easier, adding some magic touches to your game client, such as in-game single player experience.
+Kryptk is a rewrite of Neonite, [Neonite++](https://github.com/NeoniteDev/NeonitePP). This project was aimed to serve new and unique experiences for the game we all loved, making local usage far easier and messing with everything much easier, adding some magic touches to your game client, such as in-game single player experience.
 
 <br>
 
